@@ -30,7 +30,7 @@ h2 {
   font-weight: bold;
 }
 
-.process h3 {
+.process h2 {
   font-size 23px;
   font-weight: bold;
 }
@@ -39,7 +39,7 @@ h2 {
   font-size: 14px;
 }
 
-.newyork h3 {
+.background {
   background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
   font-size: 23px;
   font-weight: bold;
@@ -65,6 +65,7 @@ h2 {
 .footer ul li a {
   color: white;
 }
+
 .copy {
   color: white;
   font-size: 11px;
